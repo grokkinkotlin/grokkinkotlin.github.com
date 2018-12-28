@@ -1,17 +1,17 @@
 # Note: If you want to deploy to a GitHub user site (user.github.io), change baseurl to /
-baseurl: /tufte-css-jekyll
-title: tufte-css-jekyll
+baseurl: /
+title: Grokking Golang
 # Whether the header (with large title and subtitle) should be displayed
 header: true
-subtitle: A Jekyll theme based on tufte-css
-author: Stephan Druskat
-email: mail [at] sdruskat [dot]
-description: A Jekyll theme based on tufte-css
+subtitle: One Dev's Journey Into System Programming in the 21st Century
+author: Andrew Harmel-Law
+email: andrew [at] harmel-law [dot] com
+description: A blog about the things I learn, and the thoughts I have, as I learn my first system-level language.
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
 permalink: /articles/:categories/:year/:month/:day/:title.html
-timezone: Europe/Berlin
+timezone: UK/London
 excerpt_separator: <!--more-->
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'DeployToGithub.Rakefile', 'README.md']
 post:
