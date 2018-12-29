@@ -5,7 +5,7 @@ layout: post
 
 ## Hardware, OS and Shell
 
-I'm working on a MacBook Pro which is running MacOS Mojave (10.14.2).  My shell of choice is Z, made all glorious by [oh-my-zsh](https://ohmyz.sh/).
+I'm using a MacBook Pro which is running MacOS Mojave (10.14.2).  My shell of choice is Z, made all glorious by [oh-my-zsh](https://ohmyz.sh/).
 
 ## Installation
 
