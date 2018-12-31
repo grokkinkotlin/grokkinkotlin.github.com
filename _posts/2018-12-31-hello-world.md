@@ -21,4 +21,7 @@ However there is a concept that is new to me; there is a special package called 
 No semicolons required!
 
 ## Clean Style
-It is Golang style to run `gofmt` and `goimport` on your code.  That ensures all Golang code looks the same, and that there are no rogue (i.e. unused) imports.
+It is Golang style to run `gofmt` and `goimports` on your code.  That ensures all Golang code looks the same, and that there are no rogue (i.e. unused) imports.
+
+## Go-Managed, Easy-to-Use Toolchain
+We don't have the `goimport` tool for the toolchain in the default install, so we just `go get` it and it's available to use.
