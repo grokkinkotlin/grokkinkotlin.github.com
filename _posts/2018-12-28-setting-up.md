@@ -28,4 +28,4 @@ It seems that the defaults of this setup has changed over the course of Golang's
 ## IDE
 At the time of writing, it seems as if Visual Studio code has the best free [support for Golang](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go).  I've installed that and will be trying to use it as my primary dev environment.
 
-However, I'm typically a JetBrains user, so I might end up installing their [Go plugin](https://plugins.jetbrains.com/plugin/9568-go) too if things-Msft prove to be a brain-melt.
+However, I'm typically a JetBrains user, so I might end up installing their [Go plugin](https://plugins.jetbrains.com/plugin/9568-go) too if things-Msft prove to be a brain melt.
