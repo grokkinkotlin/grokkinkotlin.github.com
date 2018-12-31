@@ -2,7 +2,7 @@
 title: "Hello 世界"
 layout: post
 ---
-I'm starting my Golang journey with Donovan and Kernighan's "[The Go Programming Language](https://www.gopl.io/)" (2016).  Why? Becuase it's a text which not only starts form where I currently find myself skills-wise (long-term dev experience with Java and heavy sojourns into other languages but nothing to speak of in the systems-programming space) but also the first ever programming book I bought was "[The C Programming Language](https://www.cprogramming.com/books/ritchie.html)" by Kernighan and Ritchie.  It made little sense to meat the time, and the C code I wrote was _terrible_, but the nostalgia is still strong, and Kernighan (and Donovan) can write on languages very clearly.
+{% newthought "I'm starting my Golang journey" %} with Donovan and Kernighan's "[The Go Programming Language](https://www.gopl.io/)" (2016).  Why? Becuase it's a text which not only starts at the point where I currently find myself skills-wise (long-term dev experience with Java and heavy sojourns into other languages but nothing to speak of in the systems-programming space) but it also reminds me of the first ever programming book I bought; "[The C Programming Language](https://www.cprogramming.com/books/ritchie.html)" by Kernighan and Ritchie.  It made little sense to me at the time, and the C code I wrote was _terrible_, but the nostalgia is still strong, and Kernighan (and Donovan) can write on languages very clearly.
 
 Donovan and Kernighan start thier journey into Golang with the standard "Hello ..." construct, and immediately there is a lot to take note of.
 
