@@ -3,7 +3,7 @@ baseurl:
 title: Grokking Golang
 # Whether the header (with large title and subtitle) should be displayed
 header: true
-subtitle: One Developer's Journey into System Programming in the 21st Century
+subtitle: Or, Travels in Go-Land
 author: Andrew Harmel-Law
 email: andrew [at] harmel-law [dot] com
 description: A blog about the things I learn, and the thoughts I have, as I learn my first system-level language.
