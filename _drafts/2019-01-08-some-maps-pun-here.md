@@ -1,5 +1,5 @@
 ---
-title: "[Some Maps Pun Here]"
+title: "[Some Maps and Gold Pun Here]"
 layout: post
 ---
 {% newthought "It's Maps now" %} and there are a few notable nuggets here too.
