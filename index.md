@@ -1,10 +1,10 @@
 ---
 layout: full-width
-title: Welcome
+title: About
 weight: 1
 ---
 
-Hey!  Thanks for visiting.
+Hey there, thanks for visiting my blog.
 
 I'm a Java developer with a bunch of experience in Groovy, [Ruby](https://rubyeyeforthejavaguy.blogspot.com/), [Scala](https://scalaeyeforthejavaguy.blogspot.com/), Haskell, and Javascript. 
 
