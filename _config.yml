@@ -3,7 +3,7 @@ baseurl:
 title: Grokkin' Kotlin
 # Whether the header (with large title and subtitle) should be displayed
 header: true
-subtitle: (aka "Yet Another Blog Charting My Learning")
+subtitle: (aka "Yet Another Blog Charting Me Learning Language Stuff")
 author: Andrew Harmel-Law
 email: andrew [at] harmel-law [dot] com
 description: A blog about the things I learn, and the thoughts I have, as I learn Kotlin.
