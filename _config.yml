@@ -1,12 +1,12 @@
 # Note: If you want to deploy to a GitHub user site (user.github.io), change baseurl to /
 baseurl: 
-title: Grokking Golang
+title: Grokkin' Kotlin
 # Whether the header (with large title and subtitle) should be displayed
 header: true
-subtitle: Or, Travels in Go-Land
+subtitle: Yet Another Blog Charting My Learning
 author: Andrew Harmel-Law
 email: andrew [at] harmel-law [dot] com
-description: A blog about the things I learn, and the thoughts I have, as I learn my first system-level language.
+description: A blog about the things I learn, and the thoughts I have, as I learn Kotlin.
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
